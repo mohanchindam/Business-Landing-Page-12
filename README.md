@@ -13,7 +13,7 @@
 ![Project-12 Preview](./Project-12.png)
 
 I deployed the project on **Netlify**:
-- You can preview the project here, [**Business Landing Page**]()
+- You can preview the project here, [**Business Landing Page**](https://business-landing-page-012.netlify.app/)
 
 
 
